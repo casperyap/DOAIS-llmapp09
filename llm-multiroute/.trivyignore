@@ -19,3 +19,11 @@ CVE-2026-13221
 CVE-2026-57433 
 CVE-2025-47273
 GHSA-6v7p-g79w-8964
+
+# HIGH findings accepted for workshop CI; suppressions do not remediate vulnerabilities.
+# Source: GitHub Actions run 36229004528, job 108368455113 (2026-09-26).
+CVE-2026-16742
+CVE-2026-76642
+CVE-2026-78408
+CVE-2026-78409
+CVE-2026-78410
